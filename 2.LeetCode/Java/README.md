@@ -1,5 +1,5 @@
 # LeetCode
-**小目标：刷完LeetCode**
+**jdk8环境，编译器下可直接运行该项目**
 
 ## 备注：
 + tool
